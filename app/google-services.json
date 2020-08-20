@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "780217971534",
+    "firebase_url": "https://books-850b5.firebaseio.com",
+    "project_id": "books-850b5",
+    "storage_bucket": "books-850b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780217971534:android:940e6c58a7622c30fe641f",
+        "android_client_info": {
+          "package_name": "com.example.bacadata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABx-8XReacbgM43uSSlMDWw_ZdEbzYEXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780217971534:android:5b4c99e793013de8fe641f",
+        "android_client_info": {
+          "package_name": "com.example.rfidreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABx-8XReacbgM43uSSlMDWw_ZdEbzYEXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780217971534:android:2b9b75fa988ab238fe641f",
+        "android_client_info": {
+          "package_name": "com.example.tes_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABx-8XReacbgM43uSSlMDWw_ZdEbzYEXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780217971534-rgt19rke0qlt509ip6f48tegi6rce3ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
